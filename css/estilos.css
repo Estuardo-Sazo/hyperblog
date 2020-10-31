@@ -43,3 +43,11 @@ body {
     background-color: white;
     padding: 1rem;
 }
+
+#footer {
+    padding: 0.5rem;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
